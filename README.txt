@@ -4,7 +4,7 @@ Dependencies: psycopg2
 
 Usage Guide:
 
--Navigate to directory and run: directory/python3 -m beerFinder [-h] [-l] [results] [query] [value]
+-Navigate to directory and run: <directory>/python3 -m beerFinder [-h] [-l] [results] [query] [value]
 
 results: an integer value representing the maximum number of rows in the returned table
 query: a string representing the type of query that the user would like to run
